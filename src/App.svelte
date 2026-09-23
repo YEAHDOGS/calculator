@@ -125,7 +125,7 @@
     <!-- badge -->
     <div class="badge-row">
       <a href="https://wearedogs.net" target="_blank" rel="noopener" aria-label="Made by DOGS">
-        <img src="/badge/made-by-dogs.webp" alt="Made by DOGS" class="h-6 w-auto opacity-80" />
+        <img src="badge/made-by-dogs.webp" alt="Made by DOGS" class="h-6 w-auto opacity-80" />
       </a>
     </div>
   </div>
